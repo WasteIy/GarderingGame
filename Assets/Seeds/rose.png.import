@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kcbek3gwh8dp"
-path="res://.godot/imported/rose.png-3bd6a9924c50c2477e566472996a2985.ctex"
+path="res://.godot/imported/rose.png-a039950079badee2b9b955b9cc77fc0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Seeds/rose.png"
-dest_files=["res://.godot/imported/rose.png-3bd6a9924c50c2477e566472996a2985.ctex"]
+source_file="res://assets/Seeds/rose.png"
+dest_files=["res://.godot/imported/rose.png-a039950079badee2b9b955b9cc77fc0b.ctex"]
 
 [params]
 

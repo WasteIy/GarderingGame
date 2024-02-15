@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvcpxfqe26ah5"
-path="res://.godot/imported/pansy.png-dba3c742a4f89606a82baffb2e546de6.ctex"
+path="res://.godot/imported/pansy.png-b583638be4c25034ee9301adbc15bcae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Seeds/pansy.png"
-dest_files=["res://.godot/imported/pansy.png-dba3c742a4f89606a82baffb2e546de6.ctex"]
+source_file="res://assets/Seeds/pansy.png"
+dest_files=["res://.godot/imported/pansy.png-b583638be4c25034ee9301adbc15bcae.ctex"]
 
 [params]
 
