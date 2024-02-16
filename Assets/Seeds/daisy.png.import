@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqwitrr30p2e8"
-path="res://.godot/imported/daisy.png-37cc947fc79f373129d64880cc1de715.ctex"
+path="res://.godot/imported/daisy.png-c152005db5091266c3ab594ab7203ef9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Seeds/daisy.png"
-dest_files=["res://.godot/imported/daisy.png-37cc947fc79f373129d64880cc1de715.ctex"]
+source_file="res://Assets/Seeds/daisy.png"
+dest_files=["res://.godot/imported/daisy.png-c152005db5091266c3ab594ab7203ef9.ctex"]
 
 [params]
 

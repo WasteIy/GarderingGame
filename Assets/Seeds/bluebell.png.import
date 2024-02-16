@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brq1a2b51wt0n"
-path="res://.godot/imported/bluebell.png-5bc4ed5411f13a01e055ba1d790d2549.ctex"
+path="res://.godot/imported/bluebell.png-ffcd13f38c03c23a96c83fc0fa64b275.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Seeds/bluebell.png"
-dest_files=["res://.godot/imported/bluebell.png-5bc4ed5411f13a01e055ba1d790d2549.ctex"]
+source_file="res://Assets/Seeds/bluebell.png"
+dest_files=["res://.godot/imported/bluebell.png-ffcd13f38c03c23a96c83fc0fa64b275.ctex"]
 
 [params]
 
